@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """Function element_length takes a list as argument and returns
 a list of integers representing the length each element in the list."""
 
