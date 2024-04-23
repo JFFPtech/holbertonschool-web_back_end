@@ -1,0 +1,30 @@
+./python_variable_annotations/0-add.py:7:17: W292 no newline at end of file
+./python_variable_annotations/1-concat.py:2:80: E501 line too long (126 > 79 characters)
+./python_variable_annotations/1-concat.py:4:1: E302 expected 2 blank lines, found 1
+./python_variable_annotations/1-main.py:8:30: W292 no newline at end of file
+./python_variable_annotations/2-floor.py:2:80: E501 line too long (104 > 79 characters)
+./python_variable_annotations/2-floor.py:6:1: E302 expected 2 blank lines, found 1
+./python_variable_annotations/2-main.py:11:70: W292 no newline at end of file
+./python_variable_annotations/3-main.py:7:76: W292 no newline at end of file
+./python_variable_annotations/3-to_str.py:2:80: E501 line too long (121 > 79 characters)
+./python_variable_annotations/3-to_str.py:4:1: E302 expected 2 blank lines, found 1
+./python_variable_annotations/4-main.py:5:80: E501 line too long (84 > 79 characters)
+./python_variable_annotations/4-main.py:10:80: E501 line too long (125 > 79 characters)
+./python_variable_annotations/4-main.py:11:72: W292 no newline at end of file
+./python_variable_annotations/5-main.py:9:80: E501 line too long (87 > 79 characters)
+./python_variable_annotations/5-main.py:9:88: W292 no newline at end of file
+./python_variable_annotations/5-sum_list.py:2:80: E501 line too long (123 > 79 characters)
+./python_variable_annotations/5-sum_list.py:6:1: E302 expected 2 blank lines, found 1
+./python_variable_annotations/6-main.py:9:79: W292 no newline at end of file
+./python_variable_annotations/6-sum_mixed_list.py:2:80: E501 line too long (127 > 79 characters)
+./python_variable_annotations/6-sum_mixed_list.py:6:1: E302 expected 2 blank lines, found 1
+./python_variable_annotations/7-main.py:7:29: W292 no newline at end of file
+./python_variable_annotations/7-to_kv.py:2:80: E501 line too long (193 > 79 characters)
+./python_variable_annotations/7-to_kv.py:6:1: E302 expected 2 blank lines, found 1
+./python_variable_annotations/8-main.py:6:30: W292 no newline at end of file
+./python_variable_annotations/8-make_multiplier.py:5:1: E302 expected 2 blank lines, found 1
+./python_variable_annotations/8-make_multiplier.py:10:20: W292 no newline at end of file
+./python_variable_annotations/9-element_length.py:2:64: W291 trailing whitespace
+./python_variable_annotations/9-element_length.py:7:1: E302 expected 2 blank lines, found 1
+./python_variable_annotations/9-main.py:3:17: E222 multiple spaces after operator
+./python_variable_annotations/9-main.py:5:38: W292 no newline at end of file
