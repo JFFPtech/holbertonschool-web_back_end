@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+"""Async comprehension"""
+
 import asyncio
 from typing import List
 
