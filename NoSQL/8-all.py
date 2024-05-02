@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-""" Pthon script to list all docs in MonogDB """
+""" Python script to list all docs in MongoDB """
 
 
 def list_all(mongo_collection):
