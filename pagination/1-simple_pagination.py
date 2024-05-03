@@ -13,9 +13,10 @@ def index_range(page, page_size: int) -> Tuple[int, int]:
 
     return start_index, end_index
 
+
 class Server:
     """ Server class to paginate a database of popular baby names. """
-   
+
     DATA_FILE = "Popular_Baby_Names.csv"
 
     def __init__(self):
@@ -30,6 +31,7 @@ class Server:
                 dataset = [row for row in reader]
                 self.__dataset = dataset[1:]
         return self.__dataset
+
 
 def get_page(self, page: int = 1, page_size: int = 10) -> List[List]:
     """ Gets a page from the dataset """

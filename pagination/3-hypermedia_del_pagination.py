@@ -7,6 +7,7 @@ import csv
 import math
 from typing import List, Dict
 
+
 class Server:
     """Server class to paginate a database of popular baby names.
     """
@@ -40,7 +41,7 @@ class Server:
     def get_hyper_index(self, index: int = None, page_size: int = 10) -> Dict:
         if index is None:
             index = 0
-        
+
         dataset = self.indexed_dataset()
         start_index = index
         data = []
