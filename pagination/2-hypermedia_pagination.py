@@ -6,6 +6,7 @@ import csv
 from math import ceil
 from typing import List, Tuple, Dict
 
+
 def index_range(page: int, page_size: int) -> Tuple[int, int]:
     """Calculate the start and end index for pagination."""
     start_index = (page - 1) * page_size
