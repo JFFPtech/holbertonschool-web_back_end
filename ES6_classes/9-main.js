@@ -1,0 +1,9 @@
+import { listOfStudents } from './listOfStudents.js';
+
+console.log(listOfStudents);
+
+const listPrinted = listOfStudents.map(
+    student => student.fullStudentDescription
+);
+
+console.log(listPrinted);
