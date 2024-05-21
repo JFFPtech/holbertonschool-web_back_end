@@ -1,14 +1,13 @@
 function updateUniqueItems(map) {
-    if (!(map instanceof Map)) {
-      throw new Error('Provided argument is not a Map');
-    }
-  
-    map.forEach((value, key) => {
-      if (value === 1) {
-        map.set(key, 100); 
-      }
-    });
+  if (!(map instanceof Map)) {
+    throw new Error('Provided argument is not a Map');
   }
-  
-  export default updateUniqueItems;
-  
+
+  map.forEach((value, key) => {
+    if (value === 1) {
+      map.set(key, 100);
+    }
+  });
+}
+
+export default updateUniqueItems;
